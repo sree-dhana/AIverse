@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "AI Workshop 2024",
+    "description": "Learn the fundamentals of AI and machine learning",
+    "date": "2024-02-15",
+    "time": "10:00 AM",
+    "venue": "Tech Hall A",
+    "image": "/api/placeholder/400/200",
+    "registrations": 45
+  }
+]
